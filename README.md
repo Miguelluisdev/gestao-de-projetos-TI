@@ -1,6 +1,6 @@
 # 📚 **Guia Detalhado sobre Gestão de Projetos em TI**  
 *Um resumo completo para estudos e consultas rápidas*  
-*Bem iportante para um QA avançar na carreira pois um QA está em todas as etapas de um projeto!!*
+*Bem importante para um QA avançar na carreira pois um QA está em todas as etapas de um projeto!!*
 *Foco em Qualidade!!*
 ---
 
