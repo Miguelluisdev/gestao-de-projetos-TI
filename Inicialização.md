@@ -1,7 +1,5 @@
 # 🚀 **Fase de Inicialização de Projetos em TI**  
 
-# 1. Iniciação
-
 A primeira etapa, como o próprio nome indica, é a de início do projeto. Aqui, nada foi desenvolvido ainda, tendo apenas a ideia inicial do que pretendemos fazer.
 
 Assim, é o momento para alinhar as possibilidades e definir quesitos básicos do projeto, respondendo a premissas gerais de: **O quê? Como? Por quê? Quando?**
