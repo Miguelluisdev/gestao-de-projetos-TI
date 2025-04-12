@@ -1,4 +1,4 @@
-# 📚 **Guia Detalhado sobre Gestão de Projetos em TI**  
+# 📚 **[![Guia Detalhado sobre Gestão de Projetos em TI](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nivelamento+de+Conhecimento+QA)](https://git.io/typing-svg)**
 *Um resumo completo para estudos e consultas rápidas*  
 *Bem importante para um QA avançar na carreira pois um QA está em todas as etapas de um projeto!!*
 *Foco em Qualidade!!*
