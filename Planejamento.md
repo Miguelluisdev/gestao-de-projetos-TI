@@ -1,5 +1,4 @@
 # 📅 **Fase de Planejamento de Projetos em TI**  
-# 2. Planejamento
 
 A iniciação traz todos os elementos base do projeto com uma perspectiva bastante abrangente. Agora, então, é o momento de **detalhar tudo o que precisará ser feito**, definindo atividades, prazos e pessoas de modo pontual.
 
