@@ -1,7 +1,5 @@
 # 🛠 **Fase de Execução de Projetos em TI** 
 
-# 3. Execução
-
 É a etapa na qual **tudo realmente acontece**, é tirar as ideias do papel e colocar o plano em ação.
 
 ## Características da Execução
