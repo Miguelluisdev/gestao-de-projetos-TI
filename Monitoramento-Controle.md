@@ -1,5 +1,4 @@
 # 🔍 **Fase de Monitoramento e Controle**  
-# 4. Monitoramento e Controle
 
 ## Relação com a Execução
 Esta etapa ocorre **de modo conjunto com a execução**, motivo pelo qual nem sempre é mencionada separadamente. Porém, executar e monitorar são atividades distintas que merecem atenção especial durante a implementação de um projeto.
