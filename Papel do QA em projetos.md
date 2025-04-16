@@ -92,8 +92,8 @@ O **Quality Assurance (QA)** não é apenas "testar no final do projeto". É um 
 
 ---
 
-## 🔗 **Próximos Passos na Carreira**  
-1. Certificações: **ISTQB, CTFL, Agile Tester**.  
+## 🔗 **"Refere-se à eficácia, eficiência e consistência dos processos utilizados para produzir um produto ou fornecer um serviço. Um processo de alta qualidade é aquele que é bem planejado, controlado e capaz de produzir resultados consistentes e livres de erros."**  
+ 
 2. Ferramentas: **Cypress, Appium, LoadRunner**.  
 3. Networking: **Comunidades QA (MT4T, SauceCon)**.  
 
