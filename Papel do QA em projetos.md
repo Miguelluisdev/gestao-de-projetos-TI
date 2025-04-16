@@ -92,9 +92,7 @@ O **Quality Assurance (QA)** não é apenas "testar no final do projeto". É um 
 
 ---
 
-## 🔗 **"Refere-se à eficácia, eficiência e consistência dos processos utilizados para produzir um produto ou fornecer um serviço. Um processo de alta qualidade é aquele que é bem planejado, controlado e capaz de produzir resultados consistentes e livres de erros."**  
- 
-2. Ferramentas: **Cypress, Appium, LoadRunner**.  
-3. Networking: **Comunidades QA (MT4T, SauceCon)**.  
+## **"Refere-se à eficácia, eficiência e consistência dos processos utilizados para produzir um produto ou fornecer um serviço. Um processo de alta qualidade é aquele que é bem planejado, controlado e capaz de produzir resultados consistentes e livres de erros."**  
+
 
 > "QA não é sobre achar bugs. É sobre **evitar que eles existam**." — *James Bach*  
